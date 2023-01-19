@@ -1,4 +1,7 @@
 # Flutter Authnication
+Name :shuceyb ibraahim ali
+ID :C119527
+CLASS:CA192
 
 A new Flutter project.
 
